@@ -26,7 +26,7 @@ Configurational LLM enables researchers to systematically process scientific pap
 - Python 3.8 or higher
 - PySide6 (Qt for Python)
 - Internet connection
-- Claude API key or OpenAI API key
+- Claude API key, Gemini API key, OpenAI API key, or other third party API key
 
 ## Installation
 
@@ -69,7 +69,7 @@ configurational-llm/
 ## Getting Started
 
 1. Launch the application
-2. Go to API Settings and enter your API key (Claude or OpenAI)
+2. Go to API Settings and enter your API key (Gemini, Claude, OpenAI, or other third party APIs)
 3. Customize prompts and messages as needed
 4. Add files to the Files Library
 5. Click "Process All Files" to start the analysis
@@ -79,8 +79,7 @@ configurational-llm/
 
 The application supports various file types including:
 - PDFs
-- Text files
-- Images
+- Text file
 - CSV files
 - Markdown files
 - JSON files
@@ -98,10 +97,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contributors
 
-- Main author: Trayten Yuming Zhang
-- Robustness of core: Trayten Z., Linrui Z.
-- Artefacts analysis: Roxy D.
-- Environmental complexity: Denian L.
+CRediT statement:
+Yuming (Trayten) Zhang: Conceptualisation, Methodology, Software, Validation, Resources, Visualisation. 
+Linrui Zhong: Validation, Investigation. 
+Tiago Moreira: Supervision (external to the core team). 
+Jonathan Wistow: Supervision (external to the core team).
+
 
 ## License
 
