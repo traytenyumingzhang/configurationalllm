@@ -19,7 +19,6 @@ Configurational LLM enables researchers to systematically process scientific pap
 - **Message Editor**: Configure user messages
 - **Files Library**: Manage files for processing
 - **Live Output**: View real-time LLM responses and extracted tables
-- **Multi-language Support**: English, Chinese, French, and Portuguese
 
 ## Requirements
 
