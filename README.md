@@ -1,6 +1,6 @@
 # Configurational LLM
 
-A cross-platform application for processing scientific literature using large language models, with support for both Claude and OpenAI APIs.
+A cross-platform application for processing scientific literature using large language models, with support for customised APIs.
 
 ## Overview
 
