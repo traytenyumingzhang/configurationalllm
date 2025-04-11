@@ -2,6 +2,8 @@
 
 A cross-platform application for processing scientific literature using large language models, with support for customised APIs.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15200045.svg)](https://doi.org/10.5281/zenodo.15200045)
+
 ## Overview
 
 Configurational LLM enables researchers to systematically process scientific papers and research documents through LLMs. The application:
@@ -101,6 +103,21 @@ Yuming (Trayten) Zhang: Conceptualisation, Methodology, Software, Validation, Re
 Linrui Zhong: Validation, Investigation. 
 Tiago Moreira: Supervision (external to the core team). 
 Jonathan Wistow: Supervision (external to the core team).
+
+## Cite this software
+
+APA:
+Zhang, Y., Zhong, L., Moreira, T., & Wistow, J. (2025). Configurational-LLM: A Configurable Document Processing Application using Large Language Models. Zenodo. https://doi.org/10.5281/zenodo.15200045
+
+Bibtex:
+@misc{zhang2025configurational,
+  author = {Zhang, Y. and Zhong, L. and Moreira, T. and Wistow, J.},
+  title = {Configurational-LLM: A Configurable Document Processing Application using Large Language Models},
+  year = {2025},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.15200045},
+  url = {https://doi.org/10.5281/zenodo.15200045}
+}
 
 
 ## License
