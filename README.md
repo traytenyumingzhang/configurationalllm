@@ -105,6 +105,9 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-© 2025 Trayten Yuming Zhang. Licensed under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+Guidance and Processing core: © 2025 configurational.tech contributors. Licensed under Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Software design: © 2025 Trayten Yuming Zhang - Non-commercial use only.
+
