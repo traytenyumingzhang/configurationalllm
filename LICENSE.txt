@@ -1,3 +1,5 @@
+**Guidance and core coding**
+
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
@@ -19,6 +21,23 @@ Under the following terms:
 - NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material.
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+
+
+
+**Software**
+
+You must comply with the following supplementary terms when using this software:
+
+1. This software is free for any non-commercial use.
+
+2. Configurational LLM developers reserve the right of final interpretation of these agreement terms.
+
+3. This agreement may be updated according to practical circumstances.
+
+4. If you have any questions or need to apply for commercial authorisation, please contact the configurational.tech team.
+
+
+
 © 2025 Trayten Yuming Zhang
 
 ---
@@ -32,5 +51,10 @@ This software incorporates third-party components under their respective license
 - pandas: BSD-3 License
 - requests: Apache License 2.0
 - google-generativeai: Apache License 2.0
+
+If you use the packaged GUI applications, the standalone GUI software additionally incorporates components under their respective licenses:
+ - PyInstaller: GPL-2.0
+ - Py2app: MIT License
+
 
 Users must comply with all terms of these licenses when using this software.
