@@ -2,7 +2,12 @@
 
 A cross-platform application for processing scientific literature using large language models, with support for customised APIs.
 
+Software:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15200045.svg)](https://doi.org/10.5281/zenodo.15200045)
+
+Related paper of testing validity and reliability:
+<a href="https://doi.org/10.31235/osf.io/quxga_v1"><img src="https://zenodo.org/badge/DOI/10.31235/osf.io/quxga_v1.svg" alt="DOI"></a>
+
 
 ## Overview
 
