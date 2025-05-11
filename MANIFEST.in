@@ -1,0 +1,6 @@
+include LICENSE.txt
+include README.md
+include requirements.txt
+recursive-include logos *.png
+recursive-include resources/translations *.ts
+global-exclude ._*
